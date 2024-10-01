@@ -1,6 +1,8 @@
 {
     "expanded": [
-        "caminho-base"
+        "caminho-base",
+        "main_str",
+        "main_sel_ii"
     ],
     "tasks": {
         "tres": "10:0:100",
@@ -87,19 +89,19 @@
         "skills": 0
     },
     "new_items": [
+        "operacoes-basicas-",
         "selecao_math",
         "selecao_conversao",
-        "selecao_manipulacao",
+        "extra-",
         "matrizes-",
+        "selecao_intervalo",
+        "selecao_manipulacao",
         "op_math",
         "selecao-",
-        "extra-",
-        "operacoes-basicas-",
-        "selecao_intervalo",
-        "selecao_circular",
         "strings-",
-        "vetores-"
+        "vetores-",
+        "selecao_circular"
     ],
     "lang": "ts",
-    "index": 9
+    "index": 13
 }
