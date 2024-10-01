@@ -4,4 +4,13 @@ let input = () : string => _cin_.length === 0 ? "" : _cin_.shift()!;
 let write = (text: any, end:string="\n")=> process.stdout.write("" + text + end);
 export {};
 
-write("qxcode");
+let a: number = +input();
+let b: number = +input();
+
+if (a > b) {
+    console.log(a);
+} else if (a == b) {
+    console.log(b);
+} else {
+    console.log(b);
+}

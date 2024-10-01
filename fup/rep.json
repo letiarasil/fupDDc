@@ -1,8 +1,7 @@
 {
     "expanded": [
         "caminho-base",
-        "main_str",
-        "main_sel_ii"
+        "main_vet_ii"
     ],
     "tasks": {
         "tres": "10:0:100",
@@ -65,8 +64,10 @@
         "dindin": "10:0:100",
         "contar_repetidos": "10:0:100",
         "revolta": "10:0:100",
-        "cartas": "7:0:100",
+        "cartas": "10:0:100",
         "invertendo": "10:0:100",
+        "fila": "10:0:100",
+        "pedra": "8:0:100",
         "busca": "10:0:100",
         "contagem": "10:0:100",
         "xuxa": "10:0:100",
@@ -78,7 +79,13 @@
         "opala": "10:0:0",
         "tv": "10:0:0",
         "impedido": "10:0:100",
-        "morangos": "10:0:100"
+        "maximo": "10:0:100",
+        "chaves": "10:0:100",
+        "chute": "10:0:100",
+        "maior": "10:0:100",
+        "morangos": "10:0:100",
+        "par": "10:0:100",
+        "divisiveis": "10:0:100"
     },
     "flags": {
         "minimum": 0,
@@ -89,18 +96,18 @@
         "skills": 0
     },
     "new_items": [
-        "operacoes-basicas-",
-        "selecao_math",
-        "selecao_conversao",
+        "selecao_circular",
+        "selecao-",
         "extra-",
         "matrizes-",
         "selecao_intervalo",
-        "selecao_manipulacao",
-        "op_math",
-        "selecao-",
-        "strings-",
+        "operacoes-basicas-",
         "vetores-",
-        "selecao_circular"
+        "selecao_manipulacao",
+        "selecao_math",
+        "selecao_conversao",
+        "op_math",
+        "strings-"
     ],
     "lang": "ts",
     "index": 13
